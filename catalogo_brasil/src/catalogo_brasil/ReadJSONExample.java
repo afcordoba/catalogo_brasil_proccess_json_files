@@ -74,7 +74,6 @@ public class ReadJSONExample {
 			
 			//System.out.println(tmp);
 		}
-//		System.out.println(arrayProd);
 		System.out.println(tmp);
 		
 	}
