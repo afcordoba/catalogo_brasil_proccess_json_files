@@ -1,0 +1,1401 @@
+﻿[{
+		"ID": "1",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "2",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "3",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "4",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "5",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "6",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "7",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "8",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "9",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "10",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "11",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "12",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "13",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "14",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "15",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "16",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "17",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "18",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "19",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "20",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "21",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "22",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "23",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "24",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "25",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "26",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "27",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "28",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "29",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "30",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "31",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "32",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "33",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "34",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "35",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "36",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "37",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "38",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "39",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "40",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "41",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "42",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "43",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "44",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "45",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "46",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "47",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "48",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "49",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "50",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "51",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "52",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "53",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "54",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "55",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "56",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "57",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "58",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "59",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "60",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "61",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "62",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "63",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "64",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "65",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "66",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "67",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "68",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "69",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "70",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "71",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "72",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "73",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "74",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "75",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "76",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "77",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "78",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "79",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "80",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "81",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "82",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "83",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "84",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "85",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "86",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "87",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "88",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "89",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "90",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "91",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "92",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "93",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "94",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "95",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "96",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "97",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "98",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "99",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "100",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "101",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "102",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "103",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "104",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "105",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "106",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "107",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "108",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "109",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "110",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "111",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "112",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "113",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "114",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "115",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "116",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "117",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "118",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "119",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "120",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "121",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "122",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "123",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "124",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "125",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "126",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "127",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "128",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "129",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "130",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "131",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "132",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "133",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "134",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "135",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "136",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "137",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "138",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "139",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "140",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "141",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "142",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "143",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "144",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "145",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "146",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "147",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "148",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "149",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "150",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "151",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "152",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "153",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "154",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "155",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "156",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "157",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "158",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "159",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "160",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "161",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "162",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "163",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "164",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "165",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "166",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "167",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "168",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "169",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "170",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "171",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "172",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "173",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "174",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "175",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "176",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "177",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "178",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "179",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "180",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "181",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "182",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "183",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "184",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "185",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "186",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "187",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "188",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "189",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "190",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "191",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "S",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "192",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "193",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "194",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MR",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "195",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MS",
+		"Pústula bacteriana": "MS",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "196",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "197",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "MR",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "198",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "199",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "R",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	},
+	{
+		"ID": "200",
+		"Cancro da haste": "R",
+		"Mancha olho-de-rã": "S",
+		"Pústula bacteriana": "R",
+		"CD: Mancha-alvo": ""
+	}]
+	
