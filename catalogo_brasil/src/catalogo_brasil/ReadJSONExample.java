@@ -15,10 +15,13 @@ public class ReadJSONExample {
 
 	public static void main(String[] args) throws IOException, ParseException {
 	
-		FileReader readerProduto = new FileReader("src/producto.json");
+		FileReader readerProduto = new FileReader("src/test.json");
 		FileReader readerSemeadura = new FileReader("src/semeadura.json");
 		FileReader readerAgronomicas = new FileReader("src/caracteristicas_agronomicas.json");
 		FileReader readerdoencas = new FileReader("src/comportamiento_doencas.json");
+		FileReader readerPhytophtora = new FileReader("src/phytophtora.json");
+		FileReader readerNematoides = new FileReader("src/nematoides.json");
+		FileReader readerGalha = new FileReader("src/galha.json");
 		FileReader readerpontos_fortes = new FileReader("src/pontos_fortes.json");
 		
 		ContainerFactory containerFactory = new ContainerFactory(){
@@ -38,43 +41,62 @@ public class ReadJSONExample {
 		JSONParser jsonparser3 = new JSONParser();
 		JSONParser jsonparser4 = new JSONParser();
 		JSONParser jsonparser5 = new JSONParser();
-		
+		JSONParser jsonparser6 = new JSONParser();
+		JSONParser jsonparser7 = new JSONParser();
+		JSONParser jsonparser8 = new JSONParser();
 		
 		Object prod = jsonparser1.parse(readerProduto,(ContainerFactory) containerFactory);
 		Object semead = jsonparser2.parse(readerSemeadura,(ContainerFactory) containerFactory);
 		Object agronom = jsonparser3.parse(readerAgronomicas,(ContainerFactory) containerFactory);
 		Object pdoencas = jsonparser4.parse(readerdoencas,(ContainerFactory) containerFactory);
-		Object fortes = jsonparser5.parse(readerpontos_fortes,(ContainerFactory) containerFactory);
+		
+		Object phytophtora = jsonparser5.parse(readerPhytophtora,(ContainerFactory) containerFactory);
+		Object nematoides = jsonparser6.parse(readerNematoides,(ContainerFactory) containerFactory);
+		Object galha = jsonparser7.parse(readerGalha,(ContainerFactory) containerFactory);
+		Object fortes = jsonparser8.parse(readerpontos_fortes,(ContainerFactory) containerFactory);
 		
 		
-		JSONArray arrayProd = (JSONArray) prod;
+		//JSONArray arrayProd = (JSONArray) prod;
 		JSONArray arraySemeadura = (JSONArray) semead;
 		JSONArray arrayAgronomica = (JSONArray) agronom;
 		JSONArray arrayDoencas = (JSONArray) pdoencas;
+		JSONArray arrayPhytophtora = (JSONArray) phytophtora;
+		JSONArray arrayNematoides = (JSONArray) nematoides;
+		JSONArray arrayGalha = (JSONArray) galha;
+		
 		JSONArray arrayPFortes = (JSONArray) fortes;
 		
 		JSONArray tmp = new JSONArray();
 		
-		for (int i = 0; i < arrayProd.size()-1; i++) {
-			
-			LinkedHashMap produto = (LinkedHashMap) arrayProd.get(i);
-			LinkedHashMap semeadura = (LinkedHashMap) arraySemeadura.get(i);	
-			LinkedHashMap agronomica = (LinkedHashMap) arrayAgronomica.get(i);	
-			LinkedHashMap pontosF = (LinkedHashMap) arrayPFortes.get(i);	
-			LinkedHashMap cDoencas = (LinkedHashMap) arrayDoencas.get(i);	
-		
-
-			
-			produto.put("Época de semeadura", semeadura);
-			produto.put("Caracteristicas Agronomicas", agronomica);
-			produto.put("Pontos Fortes", pontosF);
-			produto.put("Comportamento doenças", cDoencas);
-			
-			tmp.add(produto);
-			
-			//System.out.println(tmp);
-		}
-		System.out.println(tmp);
+		/*
+		 * for (int i = 0; i < arrayProd.size()-1; i++) {
+		 * 
+		 * LinkedHashMap produto = (LinkedHashMap) arrayProd.get(i); LinkedHashMap
+		 * semeadura = (LinkedHashMap) arraySemeadura.get(i); LinkedHashMap agronomica =
+		 * (LinkedHashMap) arrayAgronomica.get(i); LinkedHashMap pontosF =
+		 * (LinkedHashMap) arrayPFortes.get(i); LinkedHashMap cDoencas = (LinkedHashMap)
+		 * arrayDoencas.get(i);
+		 * 
+		 * LinkedHashMap lPhytophtora = (LinkedHashMap) arrayPhytophtora.get(i);
+		 * LinkedHashMap lNematoides = (LinkedHashMap) arrayNematoides.get(i);
+		 * LinkedHashMap lGalha = (LinkedHashMap) arrayGalha.get(i);
+		 * 
+		 * lNematoides.put("Galha", lGalha);
+		 * 
+		 * cDoencas.put("Phytophtora", lPhytophtora);
+		 * 
+		 * cDoencas.put("Nematoides", lNematoides);
+		 * 
+		 * 
+		 * produto.put("Época de semeadura", semeadura);
+		 * produto.put("Caracteristicas Agronomicas", agronomica);
+		 * produto.put("Pontos Fortes", pontosF); produto.put("Comportamento doenças",
+		 * cDoencas);
+		 * 
+		 * tmp.add(produto);
+		 * 
+		 * //System.out.println(tmp); }
+		 */		System.out.println(tmp);
 		
 	}
 	
