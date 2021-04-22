@@ -15,14 +15,14 @@ public class ReadJSONExample {
 
 	public static void main(String[] args) throws IOException, ParseException {
 
-		FileReader readerProduto = new FileReader("src/producto_v1.json");
-		FileReader readerSemeadura = new FileReader("src/test2.json");
-		FileReader readerAgronomicas = new FileReader("src/test3.json");
-		FileReader readerdoencas = new FileReader("src/test5.json");
-		FileReader readerPhytophtora = new FileReader("src/test6.json");
-		FileReader readerNematoides = new FileReader("src/nematoides_v2.json");
-		FileReader readerGalha = new FileReader("src/galha_v2.json");
-		FileReader readerpontos_fortes = new FileReader("src/pontos.json");
+		FileReader readerProduto = new FileReader("src/producto.json");
+		FileReader readerSemeadura = new FileReader("src/semeadura.json");
+		FileReader readerAgronomicas = new FileReader("src/agronomicas.json");
+		FileReader readerdoencas = new FileReader("src/doencas.json");
+		FileReader readerPhytophtora = new FileReader("src/phytopstora.json");
+		FileReader readerNematoides = new FileReader("src/nematoides.json");
+		FileReader readerGalha = new FileReader("src/galhia.json");
+		FileReader readerpontos_fortes = new FileReader("src/pontosf.json");
 
 		ContainerFactory containerFactory = new ContainerFactory() {
 			@Override
@@ -67,7 +67,7 @@ public class ReadJSONExample {
 
 		JSONArray tmp = new JSONArray();
 
-		for (int i = 0; i < arrayProd.size() - 1; i++) {
+		for (int i = 0; i < arrayProd.size() ; i++) {
 
 			LinkedHashMap produto = (LinkedHashMap) arrayProd.get(i);
 			LinkedHashMap semeadura = (LinkedHashMap) arraySemeadura.get(i);
