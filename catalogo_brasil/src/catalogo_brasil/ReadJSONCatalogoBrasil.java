@@ -11,7 +11,7 @@ import org.json.simple.parser.ContainerFactory;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-public class ReadJSONExample {
+public class ReadJSONCatalogoBrasil {
 
 	public static void main(String[] args) throws IOException, ParseException {
 
@@ -85,10 +85,10 @@ public class ReadJSONExample {
 
 			cDoencas.put("Nematoides", lNematoides);
 
-			produto.put("Ã‰poca de semeadura", semeadura);
+			produto.put("Época de semeadura", semeadura);
 			produto.put("Caracteristicas Agronomicas", agronomica);
 			produto.put("Pontos Fortes", pontosF);
-			produto.put("Comportamento doenÃ§as", cDoencas);
+			produto.put("Comportamento doenças", cDoencas);
 
 			tmp.add(produto);
 
@@ -99,4 +99,5 @@ public class ReadJSONExample {
 		System.out.println(tmp);
 
 	}
+
 }
