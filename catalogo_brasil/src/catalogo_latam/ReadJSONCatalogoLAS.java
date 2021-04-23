@@ -2,12 +2,9 @@ package catalogo_latam;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.UnsupportedEncodingException;
-import java.nio.charset.Charset;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -91,12 +88,4 @@ public class ReadJSONCatalogoLAS {
 
 	}
 
-	public static void processJson(String file) throws IOException {
-		String charset = "ISO-8859-1"; // or what corresponds
-		BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(file), charset));
-		String line;
-		while ((line = in.readLine()) != null) {
-			System.out.println(line);
-		}
-	}
 }
