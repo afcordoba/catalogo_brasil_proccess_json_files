@@ -1,117 +1,109 @@
 [{
-		"id": "66",
-		"Ciclo / Hábito de crecimiento": "Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "112(1) 116(2)",
-		"Altura de planta (cm)": "92(1) 80(2)",
-		"Potencial de Ramificación": "Alto",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "160-175",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1"
-		
-	},
-	{
-		"id": "67",
-		"Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "117(1) 121(2)",
-		"Altura de planta (cm)": "105(1) 102(2)",
-		"Potencial de Ramificación": "Bajo",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "2",
-		"Peso prom. de 1000 semillas (g)": "165-180",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Resistente a raza 1 y 3"
-		
-	},
-	{
-		"id": "68",
-		"Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "119(1) 123(2)",
-		"Altura de planta (cm)": "107(1) 106(2)",
-		"Potencial de Ramificación": "Bajo",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "175-190",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Resistente a raza 1 y 3"
-		
-	},
-	{
-		"id": "69",
-		"Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "120(1) 124(2)",
-		"Altura de planta (cm)": "102(1) 95(2)",
-		"Potencial de Ramificación": "Alto",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "155-170",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1"
-		
-	},
-	{
-		"id": "70",
-		"Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "106(3)",
-		"Altura de planta (cm)": "115(3)",
-		"Potencial de Ramificación": "Alto",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "150-165",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1 y susceptible a raza 4"
-		
-	},
-	{
-		"id": "71",
-		"Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "112(3)",
-		"Altura de planta (cm)": "120(3)",
-		"Potencial de Ramificación": "Medio",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "2",
-		"Peso prom. de 1000 semillas (g)": "150-165",
-		"Color de pubescencia/ Flor": "Gris / Blanca",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1"
-		
-	},
-	{
-		"id": "72",
-		"Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "115(1) 119(2)",
-		"Altura de planta (cm)": "97(1) 88(2)",
-		"Potencial de Ramificación": "Alto",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "160-175",
-		"Color de pubescencia/ Flor": "Gris / Violeta",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1"
-		
-	},
-	{
-		"id": "73",
-		"Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "120(1) 124(2)",
-		"Altura de planta (cm)": "103(1) 100(4)",
-		"Potencial de Ramificación": "Alto",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "160-175",
-		"Color de pubescencia/ Flor": "Gris / Blanca",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Resistente a raza 1 y 4"
-		
-	},
-	{
-		"id": "74",
-		"Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
-		"Días desde siembra a R8 (1) (2)": "114(3)",
-		"Altura de planta (cm)": "110(3)",
-		"Potencial de Ramificación": "Bajo",
-		"Susceptibilidad al vuelco (1 a 10) (4)": "1",
-		"Peso prom. de 1000 semillas (g)": "150 – 165",
-		"Color de pubescencia/ Flor": "Gris / Blanca",
-		"Cancro del Tallo (5)": "Resistente",
-		"Phytophthora (6)": "Susceptible a raza 1"
-		
-	}]
+        "id": "68",
+        "Ciclo / Hábito de crecimiento": "Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "112(1) 116(2)",
+        "Altura de planta (cm)": "92(1) 80(2)",
+        "Potencial de Ramificación": "Alto",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "160-175",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1"
+    },
+    {
+        "id": "69",
+        "Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "117(1) 121(2)",
+        "Altura de planta (cm)": "105(1) 102(2)",
+        "Potencial de Ramificación": "Bajo",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "2",
+        "Peso prom. de 1000 semillas (g)": "165-180",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Resistente a raza 1 y 3"
+    },
+    {
+        "id": "70",
+        "Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "119(1) 123(2)",
+        "Altura de planta (cm)": "107(1) 106(2)",
+        "Potencial de Ramificación": "Bajo",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "175-190",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Resistente a raza 1 y 3"
+    },
+    {
+        "id": "71",
+        "Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "120(1) 124(2)",
+        "Altura de planta (cm)": "102(1) 95(2)",
+        "Potencial de Ramificación": "Alto",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "155-170",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1"
+    },
+    {
+        "id": "72",
+        "Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "106(3)",
+        "Altura de planta (cm)": "115(3)",
+        "Potencial de Ramificación": "Alto",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "150-165",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1 y susceptible a raza 4"
+    },
+    {
+        "id": "73",
+        "Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "112(3)",
+        "Altura de planta (cm)": "120(3)",
+        "Potencial de Ramificación": "Medio",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "2",
+        "Peso prom. de 1000 semillas (g)": "150-165",
+        "Color de pubescencia/ Flor": "Gris / Blanca",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1"
+    },
+    {
+        "id": "74",
+        "Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "115(1) 119(2)",
+        "Altura de planta (cm)": "97(1) 88(2)",
+        "Potencial de Ramificación": "Alto",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "160-175",
+        "Color de pubescencia/ Flor": "Gris / Violeta",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1"
+    },
+    {
+        "id": "75",
+        "Ciclo / Hábito de crecimiento": "Semi Precoz / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "120(1) 124(2)",
+        "Altura de planta (cm)": "103(1) 100(4)",
+        "Potencial de Ramificación": "Alto",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "160-175",
+        "Color de pubescencia/ Flor": "Gris / Blanca",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Resistente a raza 1 y 4"
+    },
+    {
+        "id": "76",
+        "Ciclo / Hábito de crecimiento": "Largo / Indeterminado",
+        "Días desde siembra a R8 (1) (2)": "114(3)",
+        "Altura de planta (cm)": "110(3)",
+        "Potencial de Ramificación": "Bajo",
+        "Susceptibilidad al vuelco (1 a 10) (4)": "1",
+        "Peso prom. de 1000 semillas (g)": "150 – 165",
+        "Color de pubescencia/ Flor": "Gris / Blanca",
+        "Cancro del Tallo (5)": "Resistente",
+        "Phytophthora (6)": "Susceptible a raza 1"
+    }
+]

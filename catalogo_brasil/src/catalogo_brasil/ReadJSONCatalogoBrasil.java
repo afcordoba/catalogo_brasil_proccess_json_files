@@ -96,8 +96,8 @@ public class ReadJSONCatalogoBrasil {
 		//	System.out.println(tmp);
 
 		}
-		System.out.println(tmp);
-
+		
+		System.out.println(tmp.toJSONString());
 	}
-
+	
 }
